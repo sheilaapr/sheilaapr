@@ -1,24 +1,48 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Sheila Apriliani Putri</h1>
-<h3 align="center">💻 Informatics Student | 🚀 Tech Enthusiast | 📍 Indonesia</h3>
+<h3 align="center">💻 Informatics Student | 🚀 Tech & IoT Enthusiast | 📍 Indonesia</h3>
 
 ---
 
 <!-- About Me -->
 ### 👩‍💻 About Me  
-- 🎓 Currently studying **Informatics Engineering**  
-- 🌱 Exploring **Web Development & UI/UX Design**  
-- 🔭 Working on: **FuelCheck Project** (SPBU reporting system)  
-- 💡 Passionate about **Technology, Design, and Education**  
+- 🎓 Currently studying **Informatics Engineering | UIN Maulana Malik Ibrahim Malang**  
+- 🌱 Exploring **Web Development, UI/UX Design, and IoT**   
+- 💡 Passionate about **Technology, IoT, Design, and Education**  
 - ✨ Fun fact: I enjoy learning new frameworks while sipping coffee ☕  
+
+---
+
+<!-- Interests -->
+### 🌟 Interests & Skills  
+- 🔌 **IoT (Internet of Things)** → Smart devices, sensors, and automation  
+- 📡 **Tech Enthusiast** → Always exploring new frameworks & tools  
+- 💾 **Programming Languages**:  
+  - Java ☕  
+  - PHP 🌐  
+  - C++ ⚡  
+  - Python 🐍  
+  - HTML, CSS, JavaScript 🎨  
+  - Database (MySQL, SQL) 🗄️  
 
 ---
 
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,tailwind,react,nodejs,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,cpp,python,tailwind,react,git,github,vscode" />
 </p>
+
+---
+
+<!-- Praktikum / Learning Journey -->
+### 📘 My Learning Journey in Mobile Programming
+| No | Minggu ke | Praktikum ke | Topik | Modul | Template Laporan |
+|----|-----------|--------------|-------|-------|------------------|
+| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](#) | [Template laporan](#) |
+| 2  | 01        | 01           | Widget Row dan Column | [Modul 02](#) | [Template laporan](#) |
+| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Template laporan](#) |
+| 4  | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](#) | [Template laporan](#) |
 
 ---
 
@@ -42,9 +66,11 @@
 <!-- Connect -->
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/username" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/sheilaapr" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/sheilaapr" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:email@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:230605110005@student.uin-alang.ac.id" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://instagram.com/sheilaapr_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://youtube.com/@sheilaaprilianiputri5869" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" /></a>
 </p>
 
 ---
