@@ -3,15 +3,13 @@
 <h3 align="center">💻 Informatics Student | 🚀 Tech & IoT Enthusiast | 📍 Indonesia</h3>
 
 ---
-
-<!-- About Me -->
-### 👩‍💻 About Me  
 ### 👤 Identitas
 - Nama   : Sheila Apriliani Putri
 - NIM    : 230605110005
 - Kelas  : Praktikum Mobile C
-
----
+ ---
+<!-- About Me -->
+### 👩‍💻 About Me  
 
 - 🎓 Currently studying **Informatics Engineering | UIN Maulana Malik Ibrahim Malang**  
 - 🌱 Exploring **Web Development, UI/UX Design, and IoT**   
