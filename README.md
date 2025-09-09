@@ -6,6 +6,13 @@
 
 <!-- About Me -->
 ### 👩‍💻 About Me  
+### 👤 Identitas
+- Nama   : Sheila Apriliani Putri
+- NIM    : 230605110005
+- Kelas  : Praktikum Mobile C
+
+---
+
 - 🎓 Currently studying **Informatics Engineering | UIN Maulana Malik Ibrahim Malang**  
 - 🌱 Exploring **Web Development, UI/UX Design, and IoT**   
 - 💡 Passionate about **Technology, IoT, Design, and Education**  
@@ -40,7 +47,7 @@
 | No | Minggu ke | Praktikum ke | Topik | Modul | Template Laporan |
 |----|-----------|--------------|-------|-------|------------------|
 | 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Laporan Modul 01](https://docs.google.com/document/d/1_UJHar1xEXaeHIBUUtvwQznGLrNrFnhT/edit?usp=sharing&ouid=102528712643790578123&rtpof=true&sd=true) | [Repo 1](https://github.com/sheilaapr/PraktikumMobile-Modul1) |
-| 2  | 01        | 01           | Widget Row dan Column | [Laporan Modul 02](https://docs.google.com/document/d/1GdaZoHA17boRxgumlocfLzcXGei1sZnC/edit?usp=sharing&ouid=102528712643790578123&rtpof=true&sd=true) | [Repo 2](#) |
+| 2  | 01        | 01           | Widget Row dan Column | [Laporan Modul 02](https://docs.google.com/document/d/1GdaZoHA17boRxgumlocfLzcXGei1sZnC/edit?usp=sharing&ouid=102528712643790578123&rtpof=true&sd=true) | [Repo 2](https://github.com/sheilaapr/prakmobile_modul2) |
 | 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Template laporan](#) |
 | 4  | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](#) | [Template laporan](#) |
 
