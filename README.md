@@ -46,8 +46,8 @@
 |----|-----------|--------------|-------|-------|------------------|
 | 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://docs.google.com/document/d/1_UJHar1xEXaeHIBUUtvwQznGLrNrFnhT/edit?usp=sharing&ouid=102528712643790578123&rtpof=true&sd=true) | [Repo 1](https://github.com/sheilaapr/PraktikumMobile-Modul1) |
 | 2  | 01        | 01           | Widget Row dan Column | [Modul 02](https://docs.google.com/document/d/1GdaZoHA17boRxgumlocfLzcXGei1sZnC/edit?usp=sharing&ouid=102528712643790578123&rtpof=true&sd=true) | [Repo 2](https://github.com/sheilaapr/row_and_column) |
-| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://docs.google.com/document/d/1G7nrqTX9ffruZftHJvwFpTwkDDfsHwOg/edit?usp=drive_link&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 1](https://github.com/sheilaapr/alignment) |
-| 4  | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](https://docs.google.com/document/d/1kbVGVp0VL-ANlaTe2UVydgFJZNBlnNo-/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Template laporan](https://github.com/sheilaapr/demo_flexible) |
+| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://docs.google.com/document/d/1G7nrqTX9ffruZftHJvwFpTwkDDfsHwOg/edit?usp=drive_link&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 3](https://github.com/sheilaapr/alignment) |
+| 4  | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](https://docs.google.com/document/d/1kbVGVp0VL-ANlaTe2UVydgFJZNBlnNo-/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 4](https://github.com/sheilaapr/demo_flexible) |
 
 ---
 
