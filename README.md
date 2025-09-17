@@ -48,6 +48,9 @@
 | 2  | 01        | 01           | Widget Row dan Column | [Modul 02](https://docs.google.com/document/d/1GdaZoHA17boRxgumlocfLzcXGei1sZnC/edit?usp=sharing&ouid=102528712643790578123&rtpof=true&sd=true) | [Repo 2](https://github.com/sheilaapr/row_and_column) |
 | 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://docs.google.com/document/d/1G7nrqTX9ffruZftHJvwFpTwkDDfsHwOg/edit?usp=drive_link&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 3](https://github.com/sheilaapr/alignment) |
 | 4  | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](https://docs.google.com/document/d/1kbVGVp0VL-ANlaTe2UVydgFJZNBlnNo-/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 4](https://github.com/sheilaapr/demo_flexible) |
+| 5  | 03        | 03           | Widget SizedBox, Spacer, dan Card | [Modul 05](https://docs.google.com/document/d/1FqhOTIpdB3o5gBfNCISxYFfd4pshRsom/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 5](#) |
+| 6  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://docs.google.com/document/d/1Qu9UQfV39qTly3sWOiS4sniA8lEHn0sx/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 6](#) |
+
 
 ---
 
