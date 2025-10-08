@@ -53,7 +53,7 @@
 | 7  | 04        | 04           | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](https://docs.google.com/document/d/1JSx3ReRSnVbCtExjVzdaJPp3OnamzBIj/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true)| [Repo 7](https://github.com/sheilaapr/modul7) |
 | 8  | 04        | 04           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](https://docs.google.com/document/d/1mAqsVRpt4pROhLO9xIKUYbdaPAGsrV0N/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 8](https://github.com/sheilaapr/modul8) |
 | 9  | 05        | 05           | StatefulWidget | [Modul 09](https://docs.google.com/document/d/1awfuK6vNNgY4DAZCaSNcOPxg3BkySKKT/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 9](https://github.com/sheilaapr/modul9) |
-| 10  | 06        | 06           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10]([https://docs.google.com/document/d/1awfuK6vNNgY4DAZCaSNcOPxg3BkySKKT/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true](https://docs.google.com/document/d/1YWI2HScV2tjHtlVSu39peyy1XgQrvYAU/edit)) | [Repo 10](https://github.com/sheilaapr/modul10) |
+| 10  | 06        | 06           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://docs.google.com/document/d/1YWI2HScV2tjHtlVSu39peyy1XgQrvYAU/edit) | [Repo 10](https://github.com/sheilaapr/modul10) |
 
 
 
