@@ -55,6 +55,7 @@
 | 9  | 05        | 05           | StatefulWidget | [Modul 09](https://docs.google.com/document/d/1awfuK6vNNgY4DAZCaSNcOPxg3BkySKKT/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 9](https://github.com/sheilaapr/modul9) |
 | 10  | 06        | 06           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://docs.google.com/document/d/1YWI2HScV2tjHtlVSu39peyy1XgQrvYAU/edit) | [Repo 10](https://github.com/sheilaapr/modul10) |
 | 11  | 07        | 07           | Manajemen State dengan GetX | [Modul 11](https://docs.google.com/document/d/1lXLS8N7ZQneO-I9dcOyoM9H2qf6qzp_b/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 11](https://github.com/sheilaapr/modul11) |
+| 12  | 08        | 08           | Ujian Tengah Semester | [UTS]([https://docs.google.com/document/d/1lXLS8N7ZQneO-I9dcOyoM9H2qf6qzp_b/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true](https://drive.google.com/drive/folders/1YtAGiERsFFoVxBwcDAiWUzxxx35lmunt?usp=drive_link)) | [Repo UTS](https://github.com/sheilaapr/bitcorious) |
 
 
 
