@@ -56,7 +56,7 @@
 | 10  | 06        | 06           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://docs.google.com/document/d/1YWI2HScV2tjHtlVSu39peyy1XgQrvYAU/edit) | [Repo 10](https://github.com/sheilaapr/modul10) |
 | 11  | 07        | 07           | Manajemen State dengan GetX | [Modul 11](https://docs.google.com/document/d/1lXLS8N7ZQneO-I9dcOyoM9H2qf6qzp_b/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 11](https://github.com/sheilaapr/modul11) |
 | 12  | 08        | 08           | Ujian Tengah Semester | [UTS](https://drive.google.com/drive/folders/1YtAGiERsFFoVxBwcDAiWUzxxx35lmunt?usp=drive_link) | [Repo UTS](https://github.com/sheilaapr/bitcurious) |
-| 13  | 09        | 09           | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://docs.google.com/document/d/1w9SMvPBvOHzC70QX6FJZYwCO5iixszn1/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 11](https://github.com/sheilaapr/modul12) |
+| 13  | 09        | 09           | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://docs.google.com/document/d/1w9SMvPBvOHzC70QX6FJZYwCO5iixszn1/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 12](https://github.com/sheilaapr/modul12) |
 
 
 ---
