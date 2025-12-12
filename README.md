@@ -58,7 +58,7 @@
 | 12  | 08        | 08           | Ujian Tengah Semester | [UTS](https://drive.google.com/drive/folders/1YtAGiERsFFoVxBwcDAiWUzxxx35lmunt?usp=drive_link) | [Repo UTS](https://github.com/sheilaapr/bitcurious) |
 | 13  | 09        | 09           | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://docs.google.com/document/d/1w9SMvPBvOHzC70QX6FJZYwCO5iixszn1/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 12](https://github.com/sheilaapr/modul12) |
 | 14  | 10        | 10           | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13](https://docs.google.com/document/d/1HbuP0QwGjxhGG0vwM_jMdJWCkBXk3hwr/edit?usp=sharing&ouid=109792289781726860403&rtpof=true&sd=true) | [Repo 13](https://github.com/sheilaapr/modul13) |
-
+| 15  | 11        | 11           |Ujian Akhir Semester | [UAS](https://drive.google.com/file/d/1hp4v5UFrvnAJUdvvArGJCF91HnN9Cg1m/view?usp=sharing) | [Repo UAS](https://github.com/sheilaapr/bitcurious/tree/uas-final) |
 
 ---
 
